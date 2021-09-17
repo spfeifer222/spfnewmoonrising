@@ -1,7 +1,7 @@
 {
 	"name": "spfnewmoonrising",
 	"displayName": "spfNewMoonRising Color Scheme",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "spfeifer-0815",
 	"description": "Color Scheme inspired by ipython console.",
 	"author": {
@@ -22,6 +22,10 @@
 	"engines": {
 		"vscode": "^1.0.0"
 	},
+	"repository": {
+    "type": "git",
+    "url": "https://github.com/spfeifer222/spfnewmoonrising.git"
+  },
 	"__metadata": {
 		"id": "caea3dd6-2ff1-4ecb-87c4-a400be743b51",
 		"publisherId": "ea497a2a-7f70-4fbd-8ea0-0972ff1cdbcb",
