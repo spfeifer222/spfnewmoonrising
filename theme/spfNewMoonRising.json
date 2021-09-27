@@ -781,7 +781,8 @@
       "name": "Tags",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#204a87"
+        "foreground": "#0287d7",
+        "fontStyle": "bold"
       }
     },
     {
@@ -1790,6 +1791,36 @@
         "foreground": "#2a6fc7"
       }
     },
+    {
+      "name": "cfml comment line and block",
+      "scope": [
+        "comment.line.cfml",
+        "comment.block.cfml",
+        "punctuation.definition.comment.cfml"
+      ],
+      "settings": {
+        "foreground": "#64878780"
+      }
+    },
+  {
+    "name": "cfc support function",
+    "scope": [
+        "support.function.cfscript",
+        "meta.function-call.cfscript"
+    ],
+    "settings": {
+      "foreground": "#0072B9",
+      "fontStyle": "bold"
+    }
+  },
+  {
+    "name": "cfc closure",
+    "scope": "entity.name.tag",
+    "settings": {
+      "foreground": "#0287d7",
+      "fontStyle": "bold"
+    }
+  },
     {
       "name": "Markdown underscore-style headers",
       "scope": [
