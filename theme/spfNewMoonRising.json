@@ -1218,7 +1218,7 @@
       "scope": "support.token.decorator.python,meta.function.decorator.identifier.python",
       "settings": {
         "foreground": "#0287d7"
-    }
+      }
     },
     {
       "name": "parameter function js/ts",
@@ -1962,11 +1962,11 @@
     "input.background": "#15232d",
     "input.border": "#00000000",
     "input.foreground": "#ffffff",
-    "inputOption.activeBackground": "#0099ff99",
+    "inputOption.activeBackground": "#15232d",
     "inputOption.activeBorder": "#0099ff",
-    "inputOption.activeForeground": "#0099ff99",
-    "input.placeholderForeground": "#a9a9a9fd",
-    "inputValidation.infoForeground": "#ffffff"
+    "inputOption.activeForeground": "#ffffff",
+    "input.placeholderForeground": "#a9a9a9",
+    "inputValidation.infoForeground": "#ffffff",
     "textLink.foreground": "#006ab1",
     "editor.background": "#ffffe9",
     "editor.foreground": "#000000",
@@ -2104,7 +2104,7 @@
     "merge.commonContentBackground": "#E5E5E5",
     "editorSuggestWidget.background": "#f3f3f3",
     "editorSuggestWidget.border": "#c8c8c8",
-    "editorSuggestWidget.foreground": "#000000",
+    "editorSuggestWidget.foreground": "#ffffff",
     "editorSuggestWidget.highlightForeground": "#0066bf",
     "editorSuggestWidget.selectedBackground": "#d6ebff",
     "editorHoverWidget.foreground": "#eeeeec",
@@ -2124,7 +2124,7 @@
     "peekViewTitle.background": "#ffffff",
     "peekViewTitleDescription.foreground": "#616161e6",
     "peekViewTitleLabel.foreground": "#333333",
-    "icon.foreground": "#EEEEEC",
+    "icon.foreground": "#ffffff",
     "checkbox.background": "#15232d",
     "checkbox.foreground": "#ffffff",
     "checkbox.border": "#00000000",
@@ -2143,7 +2143,7 @@
     "editorGroup.emptyBackground": "#ffffee",
     "panelSection.border": "#808080ef",
     "statusBarItem.activeBackground": "#FFFFFF25",
-    "settings.headerForeground": "#EEEEEC",
+    "settings.headerForeground": "#000000",
     "settings.focusedRowBackground": "#ffffff07",
     "walkThrough.embeddedEditorBackground": "#00000050",
     "breadcrumb.activeSelectionForeground": "#0287d7",
