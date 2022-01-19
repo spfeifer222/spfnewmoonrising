@@ -1900,7 +1900,7 @@
     }
   ],
   "colors": {
-    "foreground": "#000000",
+    "foreground": "#0090f1",
     "focusBorder": "#0090f1",
     "selection.background": "#b0daff",
     "descriptionForeground": "#eeeeec",
